@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "Jonatan",
+    "pass": "$2b$12$GyqKnuNDAdPKfqBbXdsMw.EO5tSfTi6i6x9xisNDCnhYV14H7ZB5C"
+  },
+  {
+    "id": 2,
+    "username": "",
+    "pass": "$2b$12$GzDClJHDu68OTCGCY5yXxe/fxnpXDx95KoZ8cNykGz6qoDAuWqtAm"
+  },
+  {
+    "id": 3,
+    "username": "jonas",
+    "pass": "$2b$12$oB0FIx34/xLGgK3CDX95keii9rrrLcp3WUla0QlPwdgAT.21/mi4."
+  },
+  {
+    "id": 4,
+    "username": "jonas",
+    "pass": "$2b$12$9o9ZYWB69ZJBbjKwltEVQeVrVroubGGT73/RsXBU8kGFuuwaS6Db6"
+  },
+  {
+    "id": 5,
+    "username": "jonas",
+    "pass": "$2b$12$j.KZWzg/AgnPs2maBEP8duVppxE5vAU0JU0mCuB5OFnfecjQI38N2"
+  },
+  {
+    "id": 6,
+    "username": "jonas",
+    "pass": "$2b$12$f1zl3r3Upu9X93JDm4YmQ.jffyZ/HCdFHauZknj4nvFjQBecIHQCG"
+  }
+]
